@@ -1,4 +1,4 @@
-# DOCUMENTACION DE API
+# DOCUMENTACIÓN DE API
 A fin de dar respuesta a lo solicitado para la realización de la API; en el proyecto se utilizaron las siguientes tecnologías:
 
 NODE.JS, EXPRESS, MONGODB, MONGOOSE, JAVASCRIPT, 
@@ -72,7 +72,7 @@ Como métodos de seguridad utilizados se dispuso los ofrecidos por Mongoose y qu
 
 3- Mongoose = imagen en carpeta ../img/mongoose.jpg
 
-## IMÁGENES DE MUESTRA DE LOS ENDPOINT, REALIZANDO PETICIONES Y ENVIO DE DATA POR INSOMIA Y POSTMAN
+## IMÁGENES DE MUESTRA DE LOS ENDPOINT, REALIZANDO PETICIONES Y ENVÍO DE DATA POR INSOMIA Y POSTMAN
 
 RUTAS USER:
         1 GET.USER => imagen en carpeta ../img/getuser
