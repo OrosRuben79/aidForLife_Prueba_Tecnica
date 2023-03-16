@@ -25,6 +25,11 @@ Librerías implementadas:
 ## La URL enlace del proyecto se encuentra alojado en GitHub
 https://github.com/OrosRuben79/aidForLife_Prueba_Tecnica
 
+1- Descargar o clonar el repositorio desde github
+2- Abrir el archivo el Visual Studio Code
+3- Parado sobre la carpeta raíz del proyecto (src), ejecutar el comando npm install
+4- Una vez terminada la instalación de las librerias ejecutar el comando npm run dev para leventar el servidor
+
 
 ## ESTRUCTURA
 
