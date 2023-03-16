@@ -23,5 +23,5 @@ Tú tarea es construir los servicios que nos permita cumplir con estas funciones
 - **Productos**
     - El usuario debe poder agregar un producto al carrito de compras.
     - El usuario debe poder comprar un producto
-        - Si no hay existencias, se le debe notificar al usuario al finalizar la compra.
+    - Si no hay existencias, se le debe notificar al usuario al finalizar la compra.
     - El usuario debe poder consultar la lista de productos.
