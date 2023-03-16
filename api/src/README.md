@@ -1,5 +1,5 @@
 # DOCUMENTACION DE API
-A fin de dar respuesta a lo solicitado para la realización de la API; en el proyecto se utilizaron las siguientes tecnologias:
+A fin de dar respuesta a lo solicitado para la realización de la API; en el proyecto se utilizaron las siguientes tecnologías:
 
 NODE.JS, EXPRESS, MONGODB, MONGOOSE, JAVASCRIPT, 
 
