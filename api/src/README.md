@@ -93,4 +93,3 @@ RUTAS ORDER:
         4 DELETE.ORDER => imagen en carpeta ../img/deleteorder
 
 
-## agrego contenido
